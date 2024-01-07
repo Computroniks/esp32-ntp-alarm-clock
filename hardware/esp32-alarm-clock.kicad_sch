@@ -1,0 +1,22 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 25e24d05-4603-43d2-8e31-3ef6db9742ea)
+
+  (paper "A4")
+
+  (title_block
+    (title "ESP32 Alarm Clock")
+    (rev "0.1")
+    (company "Matthew Nickson")
+    (comment 1 "Licence: CERN-OHL-P-2.0 or any later version")
+    (comment 2 "Contact: mnickson@sidingsmedia.com")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
