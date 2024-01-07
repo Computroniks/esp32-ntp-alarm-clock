@@ -1,11 +1,11 @@
 <!-- 
-SPDX-FileCopyrightText: 2022 Sidings Media <contact@sidingsmedia.com>
+SPDX-FileCopyrightText: 2023 Matthew Nickson <mnickson@sidingsmedia.com>
 SPDX-License-Identifier: MIT
 -->
 
-# Project name
+# ESP32 Alarm Clock
 
-A description of what this project is and what it does
+An IoT alarm clock built around the ESP32 designed to sync with NTP servers.
 
 ## Licence
 This repo uses the [REUSE](https://reuse.software) standard in order to
