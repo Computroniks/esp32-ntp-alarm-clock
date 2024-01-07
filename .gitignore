@@ -66,6 +66,7 @@ sdkconfig.old
 _autosave-*
 \#auto_saved_files#
 *.tmp
+*.lck
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
